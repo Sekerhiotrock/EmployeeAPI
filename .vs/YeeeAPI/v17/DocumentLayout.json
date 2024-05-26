@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\yeeeapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\yeeeapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\service\\ldepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\service\\ldepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\service\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\service\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\yeeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\yeeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\repository\\idepartmentrepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\repository\\idepartmentrepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|c:\\users\\acer\\source\\repos\\yeeeapi\\yeeeapi\\migrations\\20240513033145_letgooo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8E80C-4D79-4223-BB2C-57BB397E5FF2}|YeeeAPI\\YeeeAPI.csproj|solutionrelative:yeeeapi\\migrations\\20240513033145_letgooo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Service\\ProjectService.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Service\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Service\\ProjectService.cs",
+              "RelativeToolTip": "YeeeAPI\\Service\\ProjectService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:15:15.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Service\\IProjectService.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Service\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Service\\IProjectService.cs",
+              "RelativeToolTip": "YeeeAPI\\Service\\IProjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:15:24.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Service\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Service\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Service\\IEmployeeService.cs",
+              "RelativeToolTip": "YeeeAPI\\Service\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:42:05.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "YeeeAPI\\Service\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:14:38.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YeeeAPI.http",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\YeeeAPI.http",
+              "RelativeDocumentMoniker": "YeeeAPI\\YeeeAPI.http",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\YeeeAPI.http",
+              "RelativeToolTip": "YeeeAPI\\YeeeAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-20T08:54:18.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "YeeeAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\appsettings.json",
+              "RelativeToolTip": "YeeeAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T03:21:45.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Program.cs",
+              "RelativeToolTip": "YeeeAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:06:34.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Service\\lDepartmentService.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Service\\lDepartmentService.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Service\\lDepartmentService.cs",
+              "RelativeToolTip": "YeeeAPI\\Service\\lDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:16:35.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "YeeeAPI\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:10:52.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDepartmentRepositorycs.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Repository\\IDepartmentRepositorycs.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Repository\\IDepartmentRepositorycs.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Repository\\IDepartmentRepositorycs.cs",
+              "RelativeToolTip": "YeeeAPI\\Repository\\IDepartmentRepositorycs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:18:07.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "YeeeAPI\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:11:17.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YeeeAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\YeeeAPI.csproj",
+              "RelativeDocumentMoniker": "YeeeAPI\\YeeeAPI.csproj",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\YeeeAPI.csproj",
+              "RelativeToolTip": "YeeeAPI\\YeeeAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T03:05:38.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Repository\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Repository\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Repository\\ProjectRepository.cs",
+              "RelativeToolTip": "YeeeAPI\\Repository\\ProjectRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwEAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:13:00.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Repository\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Repository\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Repository\\IProjectRepository.cs",
+              "RelativeToolTip": "YeeeAPI\\Repository\\IProjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:13:18.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Repository\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "YeeeAPI\\Repository\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:18:18.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Service\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Service\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Service\\DepartmentService.cs",
+              "RelativeToolTip": "YeeeAPI\\Service\\DepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:16:51.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "YeeeAPI\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:17:17.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Entities\\Department.cs",
+              "RelativeToolTip": "YeeeAPI\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:17:05.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Entities\\Project.cs",
+              "RelativeToolTip": "YeeeAPI\\Entities\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:46:54.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Entities\\Employee.cs",
+              "RelativeToolTip": "YeeeAPI\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:46:53.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "YeeeAPI\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:08:14.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "YeeeAPI\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwEMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:51:41.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "YeeeAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwCUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:47:12.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240513033145_Letgooo.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Migrations\\20240513033145_Letgooo.cs",
+              "RelativeDocumentMoniker": "YeeeAPI\\Migrations\\20240513033145_Letgooo.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\YeeeAPI\\YeeeAPI\\Migrations\\20240513033145_Letgooo.cs",
+              "RelativeToolTip": "YeeeAPI\\Migrations\\20240513033145_Letgooo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:31:45.766Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
